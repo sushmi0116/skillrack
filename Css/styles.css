@@ -1,0 +1,60 @@
+.container-fluid{
+    background-color: black;
+}
+.navbar-brand{
+    width:220px;
+    margin-top: 4px;
+    padding-left: 15px;
+   
+}
+.nav-item{
+    color: #007ad9;
+    font-size: large;
+    padding-left:5px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+.navbar{
+    color: #007ad9;
+    padding-left: 0;
+    padding-top:0;
+
+}
+body{
+    background-color: #fff;
+}
+form{
+    width:260px;
+    margin-top: 60px;
+    padding-left: 20px;
+}
+.input-group{
+margin-bottom:20px;
+}
+.bt1{
+    background-color:#2185d0;
+   margin-left: 20px;
+}
+.bt2{
+
+   margin-left: 15px;
+   margin-top: 70px;
+   margin-right: -11px;
+   background-color: #db2828;
+}
+.bt3{
+    margin-left: 15px;
+   margin-top: 70px;
+   margin-right: -11px;
+   background-color: #21ba45;
+}
+.bot{
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-right: -10px;
+    margin-bottom: 40px;
+}
+h7{
+    font-size: 14px;
+}
